@@ -1,0 +1,6 @@
+La programacion orientada a objetos tienen cuatro caracteristicas principales :
+
+    → ENCAPSULAMIENTO : Tenemos la posibilidad de ocultar datos mediante codigo.
+    → ABSTRACCION : Se refiere al hecho de representar objetos en modo de codigo.
+    → HERENCIA : Se refiere a cuando una clase se crea a partir de otra ya existente.
+    → POLIFORMISMO: Se refiere a la propiedad por la que es posible enviar mensajes     sintacticamente iguales a objetos de tipos distintos.
